@@ -1,6 +1,6 @@
 # WooCommerce AI Support Agent v1
 
-🌐 **English** · [Українська](README.uk.md) · [Русский](README.ru.md)
+🌐 **English** · [Українська](README.ua.md) · [Русский](README.ru.md)
 
 An n8n workflow that triages incoming WooCommerce order notes with an LLM and routes each one to Slack, Notion, Gmail, Google Sheets, or Trello based on sentiment, category, and urgency. Built as Mini-project #4 (flagship) of an AI-automation training track.
 
