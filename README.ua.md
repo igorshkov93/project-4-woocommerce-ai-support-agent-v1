@@ -1,6 +1,6 @@
 # WooCommerce AI Support Agent v1
 
-🌐 [English](README.md) · **Українська** · [Русский](README.ru.md)
+🌐 [English](README.md) · **Українська**
 
 Воркфлоу n8n, що сортує нотатки до замовлень WooCommerce за допомогою LLM і спрямовує кожну до Slack, Notion, Gmail, Google Sheets чи Trello — залежно від тональності, категорії та терміновості. Створено як Mini-project #4 (флагман) навчального треку з AI-автоматизації.
 
